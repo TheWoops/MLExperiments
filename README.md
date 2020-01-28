@@ -1,11 +1,13 @@
-# MLExperiments
+#  MLExperiments  :sparkles:
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Collection of State-of-the-Art for real world Machine Learning Use Cases.
 Since shallow models (e.g. SVM and logistic regression) are no state-of-the-Art anymore, they wont be captured here anymore.
 Further only NLP tasks that have the capability to have direct real world impact for SME will be captured. Topics that have a stronger focus on NLP research are out of scope.
 
 
-## Natural Language Processing
+## Natural Language Processing :mag:
 
 | NLP-Task | relevant | Description |
 |---------|:------:|-------------|
