@@ -21,9 +21,9 @@ Further only NLP tasks that have the capability to have direct real world impact
 | Grammatical error correction | :bulb: | orrecting different kinds of errors in text such as spelling, punctuation, grammatical, and word choice errors |
 | Information extraction | :heavy_check_mark: | Information extraction is the process of extracting specific (pre-specified) information from textual sources. One of the most trivial examples is when your email extracts only the data from the message for you to add in your Calendar. |
 | Language modeling | :x: | task of predicting the next word or character in a document. |
-| Lexical normalization | :heavy_check_mark: | Set node images, colors and font properties. |
-| Machine translation | :heavy_check_mark: | Set node images, colors and font properties. |
-| Missing elements | :heavy_check_mark: | Set node images, colors and font properties. |
+| Lexical normalization | :bulb: | process of reducing words to their roots (stemming, lemmatization)  |
+| Machine translation | :heavy_check_mark: | translate text or speech from one language to another|
+| Missing elements | :x: | deals with things that are meant, but not explicitly mentioned in a text |
 | Multi-task learning | :heavy_check_mark: | Set node images, colors and font properties. |
 | Multi-modal | :heavy_check_mark: | Set node images, colors and font properties. |
 | Named entity recognition | :heavy_check_mark: | Set node images, colors and font properties. |
