@@ -24,10 +24,10 @@ Further only NLP tasks that have the capability to have direct real world impact
 | Lexical normalization | :bulb: | process of reducing words to their roots (stemming, lemmatization)  |
 | Machine translation | :heavy_check_mark: | translate text or speech from one language to another|
 | Missing elements | :x: | deals with things that are meant, but not explicitly mentioned in a text |
-| Multi-task learning | :heavy_check_mark: | Set node images, colors and font properties. |
-| Multi-modal | :heavy_check_mark: | Set node images, colors and font properties. |
-| Named entity recognition | :heavy_check_mark: | Set node images, colors and font properties. |
-| Natural language inference | :heavy_check_mark: | Set node images, colors and font properties. |
+| Multi-task learning | :x: | training a model on several tasks with the aim that in generalizes better on the specific original task |
+| Multi-modal | :x: | Combining several modalitites text, speed, image) to improve model performance  |
+| Named entity recognition | :heavy_check_mark: | automatically detect and extract entites (person names, organizations, cities etc.) |
+| Natural language inference | :heavy_check_mark: | determine if one given statement a premise) semantically entails another given statement |
 | Part-of-speech tagging | :heavy_check_mark: | Set node images, colors and font properties. |
 | Question answering | :heavy_check_mark: | Set node images, colors and font properties. |
 | Relation prediction | :heavy_check_mark: | Set node images, colors and font properties. |
