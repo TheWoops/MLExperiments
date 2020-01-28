@@ -31,17 +31,17 @@ Further only NLP tasks that have the capability to have direct real world impact
 | Part-of-speech tagging | :x: | assigning word category to word (noun, verb etc.)|
 | Question answering | :heavy_check_mark: | building systems that automatically answer questions posed by humans in a natural language |
 | Relation prediction | :x: | recognizing a named relation between two named semantic entities (e.g. for data in graph dbs) |
-| Relationship extraction | :blub: | extracting semantic relationships from text, which usually occur between two or more entities. ("Paris is in France" - relationship: "is in") |
+| Relationship extraction | :bulb: | extracting semantic relationships from text, which usually occur between two or more entities. ("Paris is in France" - relationship: "is in") |
 | Semantic textual similarity | :heavy_check_mark: | determining how similar two pieces of texts are |
 | Semantic parsing | :x: | converting a natural language utterance to a machine-understandable representation of its meaning |
-| Semantic role labeling | :heavy_check_mark: | Set node images, colors and font properties. |
-| Sentiment analysis | :x: | assigning  semantic roles to word in a sentence. |
-| Shallow syntax | :heavy_check_mark: | Set node images, colors and font properties. |
-| Simplification | :heavy_check_mark: | Set node images, colors and font properties. |
-| Intent Detection and Slot Filling | :heavy_check_mark: | Set node images, colors and font properties. |
-| Stance detection | :heavy_check_mark: | Set node images, colors and font properties. |
-| Summarization | :heavy_check_mark: | Set node images, colors and font properties. |
-| Taxonomy learning | :heavy_check_mark: | Set node images, colors and font properties. |
-| Temporal processing | :heavy_check_mark: | Set node images, colors and font properties. |
-| Text classification | :heavy_check_mark: | Set node images, colors and font properties. |
-| Word sense disambiguation | :heavy_check_mark: | Set node images, colors and font properties. |
+| Semantic role labeling | :x: | assigns labels to words or phrases in a sentence that indicate their semantic role in the sentence |
+| Sentiment analysis | :heavy_check_mark: | identify whether the expressed option of a text is positive, negative oder neutral |
+| Shallow syntax | :x: | analysis of a text on the level of the syntactic structure of the text |
+| Simplification | :x: | modifying the content and structure of a text in order to make it easier to read and understand, while preserving its main ide |
+| Intent Detection and Slot Filling | :bulb: | task of interpreting user commands/queries by extracting the intent and the relevant slots (=basis of chatbots) |
+| Stance detection | :heavy_check_mark: | identify type of attitude that is expressed as reaction to a claim made by a primary actor   |
+| Summarization | :heavy_check_mark: | technique to shorten long pieces of text |
+| Taxonomy learning | :x: | hierarchically classifying concepts in an automatic manner from text corpora |
+| Temporal processing | :x: | e.g identify which date a docuement was created, or in which orders events are mentioned withing a docuement |
+| Text classification | :heavy_check_mark: | assign a text to one or more categories |
+| Word sense disambiguation | :x: | the same word can have different meaning depending on its context(e.g the word "bank" - riverside or financial bank, WSD helps ro resolve such word ambiguities|
